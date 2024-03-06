@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-<h1>hola soy koala</h1>
- <img src="cafeconleche2.jpg" alt="" class="rounded-circle">
+<h1>hola soy koala</h1> 
+<img src="![rosas](https://github.com/koala2026/koala2026/assets/162128963/29df6cfc-5c97-49d5-ad9e-089858f3849c)
+ class="rounded-circle">
 
 <!--
 **koala2026/koala2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
